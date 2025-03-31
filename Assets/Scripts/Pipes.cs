@@ -16,6 +16,6 @@ public class Pipes : MonoBehaviour {
 
     // Update is called once per frame
     private void Update() {
-        transform.position += Vector3.left * speed * Time.deltaTime;
+        transform.position += speed * Time.deltaTime * Vector3.left;
     }
 }
