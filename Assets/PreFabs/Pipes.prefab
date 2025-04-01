@@ -316,5 +316,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   topPipe: {fileID: 8514292919737381141}
   buttonPipe: {fileID: 7040268161990136935}
-  spacing: 2
-  speed: 1
+  spacing: 3
+  speed: 3

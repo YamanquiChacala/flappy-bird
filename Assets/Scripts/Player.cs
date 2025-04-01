@@ -29,4 +29,8 @@ public class Player : MonoBehaviour
             jumpTriggered = false;
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D other) {
+        GameManager.instance.GameOver();
+    }
 }
