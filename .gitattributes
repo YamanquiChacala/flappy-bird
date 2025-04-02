@@ -124,6 +124,7 @@ Assets/Plugins/**       linguist-vendored
 *.tif                   lfs
 *.tiff                  lfs
 *.webp                  lfs
+*.kra                   lfs
 
 # Compressed Archive
 *.7z                    lfs
