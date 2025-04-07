@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a502193527d729d42b5c44590f4d803e
+guid: 1eea83760736ba04eb95bd98bcf28edc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5839258287910568933
-    second: Fondo total_0
+      213: -5833429208363724465
+    second: Cielo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 0
   alignment: 0
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fondo total_0
+      name: Cielo_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,15 +121,15 @@ TextureImporter:
         width: 640
         height: 480
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1cb55d5689c6fea0800000000000000
-      internalID: -5839258287910568933
+      spriteID: f419715ba0f7b0fa0800000000000000
+      internalID: -5833429208363724465
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 78024d44fb00f8b458a3535408d19ab5
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fondo total_0: -5839258287910568933
+      Cielo_0: -5833429208363724465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

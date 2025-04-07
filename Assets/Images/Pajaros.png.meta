@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: a502193527d729d42b5c44590f4d803e
+guid: 106a30422613ed340b4915a0fbab4b75
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5839258287910568933
-    second: Fondo total_0
+      213: -1831639293836508264
+    second: Pajaros_0
+  - first:
+      213: 6344466985946527099
+    second: Pajaros_1
+  - first:
+      213: -228791797167079880
+    second: Pajaros_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 0
   alignment: 0
@@ -113,23 +119,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fondo total_0
+      name: Pajaros_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 640
-        height: 480
+        x: 91
+        y: 314
+        width: 84
+        height: 38
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1cb55d5689c6fea0800000000000000
-      internalID: -5839258287910568933
+      spriteID: 8934a3644c5b496e0800000000000000
+      internalID: -1831639293836508264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pajaros_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 352
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75398afb131c0850800000000000000
+      internalID: 6344466985946527099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pajaros_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 292
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e355a921b23dcf0800000000000000
+      internalID: -228791797167079880
       vertices: []
       indices: 
       edges: []
@@ -138,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 78024d44fb00f8b458a3535408d19ab5
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fondo total_0: -5839258287910568933
+      Pajaros_0: -1831639293836508264
+      Pajaros_1: 6344466985946527099
+      Pajaros_2: -228791797167079880
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

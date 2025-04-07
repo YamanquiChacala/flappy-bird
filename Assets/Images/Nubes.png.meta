@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: a502193527d729d42b5c44590f4d803e
+guid: 22e629d43afb25a48b6a1cf10e300738
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5839258287910568933
-    second: Fondo total_0
+      213: -1952231738249391892
+    second: Nubes_0
+  - first:
+      213: 8089803103448998486
+    second: Nubes_1
+  - first:
+      213: -6395838251325874162
+    second: Nubes_2
+  - first:
+      213: -527391238363987087
+    second: Nubes_3
+  - first:
+      213: -6661645326597711990
+    second: Nubes_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 0
   alignment: 0
@@ -113,23 +125,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fondo total_0
+      name: Nubes_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 640
-        height: 480
+        x: 103
+        y: 419
+        width: 89
+        height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1cb55d5689c6fea0800000000000000
-      internalID: -5839258287910568933
+      spriteID: ce0d662d39748e4e0800000000000000
+      internalID: -1952231738249391892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nubes_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 337
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6522eeb9f01c44070800000000000000
+      internalID: 8089803103448998486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nubes_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 386
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00addc3ffa6d37a0800000000000000
+      internalID: -6395838251325874162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nubes_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 337
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17349a386745ea8f0800000000000000
+      internalID: -527391238363987087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nubes_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 260
+        width: 103
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a879080ded41d83a0800000000000000
+      internalID: -6661645326597711990
       vertices: []
       indices: 
       edges: []
@@ -138,7 +238,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 78024d44fb00f8b458a3535408d19ab5
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fondo total_0: -5839258287910568933
+      Nubes_0: -1952231738249391892
+      Nubes_1: 8089803103448998486
+      Nubes_2: -6395838251325874162
+      Nubes_3: -527391238363987087
+      Nubes_4: -6661645326597711990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
