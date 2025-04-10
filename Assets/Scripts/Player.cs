@@ -42,4 +42,9 @@ public class Player : MonoBehaviour
     {
         GameManager.instance.GameOver();
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        GameManager.instance.AddScore();
+    }
 }
